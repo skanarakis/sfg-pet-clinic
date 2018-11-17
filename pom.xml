@@ -4,7 +4,7 @@
 
     <groupId>org.skan.practice</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.6-SNAPSHOT</version>
+    <version>0.0.7-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -45,7 +45,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:skanarakis/sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
