@@ -1,4 +1,4 @@
-package sfgpetclinic;
+package org.skan.practice.sfgpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
